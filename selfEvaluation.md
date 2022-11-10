@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `for` statement?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `for` statement? I admit, this was the hardest bit so far for me. However, once I started getting better at pulling together all of the various things we've been learning, it became a lot clearer. Still definitely something that is going to require some work though.
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle? I definitely felt confused and frustrated at times. However, with a little help from a friend and thinking through every problem, I managed to come to the solutions eventually. But before reaching out, I was definitely feeling that unproductive struggle.
+- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? Hopefully the practice for this can fit in to my already scheduled practice times for Friday and Sunday. I'm definitely going to need to do some practice, though. Hopefully I can find more problems to solve with for loops.
+- What questions do you still have? How will you get the answers you need? None at the moment.
